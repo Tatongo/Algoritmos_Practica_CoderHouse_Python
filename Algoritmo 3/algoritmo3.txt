@@ -1,0 +1,7 @@
+El usuario quiere saber si puede ingresar a una discoteca segun su edad.
+
+Algoritmo:
+1. Solicitar al usuario que ingrese la edad del cliente
+2. Verificar si la edad ingresada cumple con el requisito para ingresar a la discoteca
+3. Mostrar al usuario si su cliente puede o no ingresar a la discoteca
+

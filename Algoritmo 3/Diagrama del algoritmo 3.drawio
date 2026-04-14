@@ -1,0 +1,59 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="F_VQC2xKA_CjgSg8JD61">
+    <mxGraphModel dx="673" dy="376" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5fkPOLPBhUxm1nR94xXP-3" edge="1" parent="1" source="5fkPOLPBhUxm1nR94xXP-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5fkPOLPBhUxm1nR94xXP-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5fkPOLPBhUxm1nR94xXP-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Inicio" vertex="1">
+          <mxGeometry height="80" width="80" x="374" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5fkPOLPBhUxm1nR94xXP-5" edge="1" parent="1" source="5fkPOLPBhUxm1nR94xXP-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5fkPOLPBhUxm1nR94xXP-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5fkPOLPBhUxm1nR94xXP-2" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ingrese edad_cliente" vertex="1">
+          <mxGeometry height="60" width="166" x="331" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="5fkPOLPBhUxm1nR94xXP-7" edge="1" parent="1" source="5fkPOLPBhUxm1nR94xXP-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5fkPOLPBhUxm1nR94xXP-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5fkPOLPBhUxm1nR94xXP-14" connectable="0" parent="5fkPOLPBhUxm1nR94xXP-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Si" vertex="1">
+          <mxGeometry relative="1" x="-0.3291" y="-1" as="geometry">
+            <mxPoint x="-13" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5fkPOLPBhUxm1nR94xXP-9" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="482" y="379.76" as="sourcePoint" />
+            <mxPoint x="580" y="379.76" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5fkPOLPBhUxm1nR94xXP-13" connectable="0" parent="5fkPOLPBhUxm1nR94xXP-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
+          <mxGeometry relative="1" x="0.1905" y="-1" as="geometry">
+            <mxPoint x="-11" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5fkPOLPBhUxm1nR94xXP-4" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="edad_cliente&amp;gt;=18" vertex="1">
+          <mxGeometry height="80" width="136" x="346" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="5fkPOLPBhUxm1nR94xXP-11" edge="1" parent="1" source="5fkPOLPBhUxm1nR94xXP-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5fkPOLPBhUxm1nR94xXP-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5fkPOLPBhUxm1nR94xXP-6" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Puede Ingresar a la discoteca" vertex="1">
+          <mxGeometry height="60" width="159" x="334.5" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="5fkPOLPBhUxm1nR94xXP-12" edge="1" parent="1" source="5fkPOLPBhUxm1nR94xXP-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5fkPOLPBhUxm1nR94xXP-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5fkPOLPBhUxm1nR94xXP-8" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="No puede Ingresar a la discoteca" vertex="1">
+          <mxGeometry height="60" width="160" x="570" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="5fkPOLPBhUxm1nR94xXP-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Fin" vertex="1">
+          <mxGeometry height="80" width="80" x="610" y="500" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
